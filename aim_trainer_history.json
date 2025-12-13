@@ -1,0 +1,217 @@
+[
+  {
+    "timestamp": "2025-12-12T11:20:51.833945",
+    "score": 0,
+    "total_clicks": 1,
+    "hit_clicks": 0,
+    "accuracy": 0.0,
+    "time_elapsed": 60.008
+  },
+  {
+    "timestamp": "2025-12-12T12:04:21.105096",
+    "score": 37.85,
+    "total_clicks": 79,
+    "hit_clicks": 66,
+    "accuracy": 0.8354430379746836,
+    "time_elapsed": 60.002,
+    "avg_click_interval": 565.0
+  },
+  {
+    "timestamp": "2025-12-12T12:05:59.322615",
+    "score": 39.07,
+    "total_clicks": 138,
+    "hit_clicks": 119,
+    "accuracy": 0.8623188405797102,
+    "time_elapsed": 60.003,
+    "avg_click_interval": 477.492
+  },
+  {
+    "timestamp": "2025-12-12T12:47:42.198659",
+    "score": 42.07,
+    "total_clicks": 140,
+    "hit_clicks": 130,
+    "accuracy": 0.9285714285714286,
+    "time_elapsed": 60.003,
+    "avg_click_interval": 445.465
+  },
+  {
+    "timestamp": "2025-12-12T12:59:05.815925",
+    "score": 23280,
+    "total_clicks": 129,
+    "hit_clicks": 116,
+    "accuracy": 0.8992248062015504,
+    "time_elapsed": 60.003,
+    "max_combo": 1
+  },
+  {
+    "timestamp": "2025-12-12T13:13:10.884398",
+    "score": 25340,
+    "total_clicks": 128,
+    "hit_clicks": 121,
+    "accuracy": 0.9453125,
+    "time_elapsed": 60.006,
+    "max_combo": 16
+  },
+  {
+    "timestamp": "2025-12-12T13:26:43.620995",
+    "score": 26767,
+    "total_clicks": 123,
+    "hit_clicks": 119,
+    "accuracy": 0.967479674796748,
+    "time_elapsed": 60.006,
+    "max_combo": 28
+  },
+  {
+    "timestamp": "2025-12-12T13:32:51.039656",
+    "score": 20160,
+    "total_clicks": 113,
+    "hit_clicks": 99,
+    "accuracy": 0.8761061946902655,
+    "time_elapsed": 60.014,
+    "max_combo": 33,
+    "max_balls": 3
+  },
+  {
+    "timestamp": "2025-12-12T13:43:31.937868",
+    "score": 25114,
+    "total_clicks": 120,
+    "hit_clicks": 118,
+    "accuracy": 0.9833333333333333,
+    "time_elapsed": 60.002,
+    "max_combo": 22,
+    "max_balls": 3,
+    "avg_click_interval": 502.008
+  },
+  {
+    "timestamp": "2025-12-12T13:56:14.471454",
+    "score": 31732,
+    "total_clicks": 182,
+    "hit_clicks": 165,
+    "accuracy": 0.9065934065934066,
+    "time_elapsed": 60.009,
+    "max_combo": 4,
+    "max_balls": 3,
+    "avg_click_interval": 331.53,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T14:15:21.509860",
+    "score": 21294,
+    "total_clicks": 126,
+    "hit_clicks": 112,
+    "accuracy": 0.8888888888888888,
+    "time_elapsed": 60.009,
+    "max_combo": 0,
+    "max_balls": 3,
+    "avg_click_interval": 477.992,
+    "game_mode": "mod_1"
+  },
+  {
+    "timestamp": "2025-12-12T14:22:33.805776",
+    "score": 43592,
+    "total_clicks": 234,
+    "hit_clicks": 220,
+    "accuracy": 0.9401709401709402,
+    "time_elapsed": 60.001,
+    "max_combo": 7,
+    "max_balls": 3,
+    "avg_click_interval": 256.524,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T15:20:28.365058",
+    "score": 49664,
+    "total_clicks": 239,
+    "hit_clicks": 233,
+    "accuracy": 0.9748953974895398,
+    "time_elapsed": 60.0,
+    "max_combo": 118,
+    "max_balls": 3,
+    "avg_click_interval": 251.466,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T15:35:17.779923",
+    "score": 47776,
+    "total_clicks": 239,
+    "hit_clicks": 233,
+    "accuracy": 0.9748953974895398,
+    "time_elapsed": 60.007,
+    "max_combo": 60,
+    "max_balls": 3,
+    "avg_click_interval": 251.996,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T15:47:43.889165",
+    "score": 47262,
+    "total_clicks": 243,
+    "hit_clicks": 234,
+    "accuracy": 0.9629629629629629,
+    "time_elapsed": 60.013,
+    "max_combo": 21,
+    "max_balls": 3,
+    "avg_click_interval": 247.591,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T16:22:27.704995",
+    "score": 21644,
+    "total_clicks": 241,
+    "hit_clicks": 224,
+    "accuracy": 0.9294605809128631,
+    "time_elapsed": 60.01,
+    "max_combo": 26,
+    "max_balls": 3,
+    "avg_click_interval": 269.09,
+    "game_mode": "mod_2"
+  },
+  {
+    "timestamp": "2025-12-12T16:52:31.337943",
+    "score": 11662,
+    "total_clicks": 131,
+    "hit_clicks": 122,
+    "accuracy": 0.9312977099236641,
+    "time_elapsed": 60.014,
+    "max_combo": 3,
+    "max_balls": 3,
+    "avg_click_interval": 495.306,
+    "game_mode": "mod_3"
+  },
+  {
+    "timestamp": "2025-12-13T11:04:06.261930",
+    "score": 17976,
+    "total_clicks": 189,
+    "hit_clicks": 179,
+    "accuracy": 0.9470899470899471,
+    "time_elapsed": 60.011,
+    "max_combo": 25,
+    "max_balls": 3,
+    "avg_click_interval": 336.253,
+    "game_mode": "mod_3"
+  },
+  {
+    "timestamp": "2025-12-13T11:20:02.814498",
+    "score": 22822,
+    "total_clicks": 210,
+    "hit_clicks": 206,
+    "accuracy": 0.9809523809523809,
+    "time_elapsed": 60.003,
+    "max_combo": 24,
+    "max_balls": 3,
+    "avg_click_interval": 292.127,
+    "game_mode": "mod_3"
+  },
+  {
+    "timestamp": "2025-12-13T11:21:16.167360",
+    "score": 20474,
+    "total_clicks": 234,
+    "hit_clicks": 216,
+    "accuracy": 0.9230769230769231,
+    "time_elapsed": 60.003,
+    "max_combo": 13,
+    "max_balls": 3,
+    "avg_click_interval": 278.907,
+    "game_mode": "mod_2"
+  }
+]
