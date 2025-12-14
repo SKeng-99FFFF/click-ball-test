@@ -1,3 +1,4 @@
+ HEAD
 # Aim Trainer 游戏说明文档
 
 ## 版本信息
@@ -255,3 +256,7 @@ Aim Trainer是一款基于humanbenchmark.com的反应训练游戏，旨在提高
 - 网格系统和小球生成
 - 计分系统和时间控制
 - 按照新规范：A=1(模式数量), B=0(功能版本), C=0(修改次数)
+
+# click-ball-test
+用AI写的
+ 251364f57b2db492261b1de056b67765b4680025
